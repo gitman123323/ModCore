@@ -1,4 +1,4 @@
-<img src="ModCoreLogo.png" alt="ModCore Preview" width="180"/>
+<img src="ModCoreLogo.png" alt="ModCore Preview" width="255"/>
 
 
 # ModCore
